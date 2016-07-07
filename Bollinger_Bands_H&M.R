@@ -24,7 +24,7 @@ plot(x = index(HyM.bb),
      ylim = y.range, 
      ylab = "Price (SEK)", 
      type = "l", 
-     lwd = 3,
+     lwd = 2,
      col = "orange",
      main = "H&M - Bollinger Bands (20 days, 2 deviations)
      January 1,2010 - December 31, 2015")
